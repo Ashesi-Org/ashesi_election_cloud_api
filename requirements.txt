@@ -1,0 +1,4 @@
+flask
+firebase_admin
+firestore
+functions_framework
